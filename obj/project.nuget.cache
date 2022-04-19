@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "XgDg7an0UwdQhrMdySDMglLuRoZwwNk+8CxgTtVwHz7wLd3d+LxE4JFmwj9amXb6GNNAc8UYr2Ir8R92ko2O7w==",
+  "success": true,
+  "projectFilePath": "/Users/anandthanumalayan/anandthanu/src/github/config-migration-dotnetcore/config-migration-dotnetcore.csproj",
+  "expectedPackageFiles": [
+    "/Users/anandthanumalayan/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/anandthanumalayan/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/anandthanumalayan/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/Users/anandthanumalayan/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/Users/anandthanumalayan/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/Users/anandthanumalayan/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
