@@ -34,6 +34,9 @@
             "type": "docker",
             "request": "launch",
             "preLaunchTask": "docker-run: debug",
+            "dockerServerReadyAction": {
+                "uriFormat": "%s://localhost:%s/Config"
+            },
             "netCore": {
                 "appProject": "${workspaceFolder}/config-migration-dotnetcore.csproj"
             }
